@@ -23,8 +23,6 @@ No additional setup is needed.
 About the Developer
 -------------------
 
-Hi! I’m Alon — an indie dev passionate about creating focused, no-BS macOS tools.
-
-📸 Instagram: @alonatias_
+Hi! I’m foolbase — an indie dev passionate about creating focused, no-BS macOS tools.
 
 Thanks for using PowerNapToggler!
