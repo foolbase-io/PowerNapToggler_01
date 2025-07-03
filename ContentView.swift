@@ -52,7 +52,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         popover.behavior = .transient
 
         DispatchQueue.main.async {
-            self.popover.show(relativeTo: button.bounds, of: button, preferredEdge: .minY)
+            self.popover.show(relativeTo: button.bounds, of: button, preferredEdge: .maxY)
             DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
                 self.popover.performClose(nil)
             }
