@@ -1,0 +1,42 @@
+Privacy Policy for PowerNapToggler
+
+Last updated: July 2025
+
+1. Introduction
+PowerNapToggler (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains what (if any) information we collect, how we use it, and what choices you have. By downloading or using PowerNapToggler, you agree to the terms below.
+
+2. Information We Do Not Collect
+	•	No Personal Data
+PowerNapToggler is a purely local, menu-bar utility. We do not collect or transmit your name, email, device identifiers, location, or any other personal information.
+	•	No Usage Analytics
+We do not gather crash reports, usage analytics, or telemetry by default.
+
+3. On-Device Permissions
+	•	Administrator Privileges
+To toggle Low-Power Mode and TCP keep-alive, the app invokes a script via AppleScript/osascript. macOS will prompt you for your own password (locally) to authorize these changes; we do not store or transmit your password.
+	•	Optional Accessibility / Notifications
+If you opt in to show on-screen notifications or enable Accessibility scripting for UI automation, those permissions remain on your Mac only. We do not access or log your other apps or screen contents.
+
+4. Data Storage & Security
+	•	PowerNapToggler does not store any user data beyond transient settings (e.g. last-used mode) in its local application preferences.
+	•	Preferences are stored on your Mac in ~/Library/Preferences/com.toggler.PowerNapToggler.plist and are not shared externally.
+
+5. Third-Party Components
+PowerNapToggler may use Apple’s built-in frameworks (AppKit, StoreKit, etc.) but does not include any third-party analytics, advertising, or tracking SDKs.
+
+6. Your Choices
+	•	You can uninstall PowerNapToggler at any time by deleting the app from your Applications folder.
+	•	You can reset all settings by removing the preferences file at the path above.
+
+7. Children’s Privacy
+This software is not intended for use by children under 13. We do not knowingly collect personal data from minors.
+
+8. Changes to This Policy
+We may update this policy to reflect changes in our app or legal requirements. When we do, the “Last updated” date will change. Your continued use constitutes acceptance.
+
+9. Contact Us
+If you have questions or concerns, please email: support@foolbase.io
+
+⸻
+
+© 2025 Alon Atias
